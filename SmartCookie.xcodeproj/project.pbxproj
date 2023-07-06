@@ -11,6 +11,7 @@
 		3CAC28C92A5757E10019ECD3 /* Mainview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CAC28C82A5757E10019ECD3 /* Mainview.swift */; };
 		3CAC28CB2A5757E10019ECD3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3CAC28CA2A5757E10019ECD3 /* Assets.xcassets */; };
 		3CAC28CF2A5757E10019ECD3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3CAC28CE2A5757E10019ECD3 /* Preview Assets.xcassets */; };
+		3CAC28D82A5760AD0019ECD3 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CAC28D72A5760AD0019ECD3 /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		3CAC28CA2A5757E10019ECD3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3CAC28CC2A5757E10019ECD3 /* SmartCookie.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = SmartCookie.entitlements; sourceTree = "<group>"; };
 		3CAC28CE2A5757E10019ECD3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3CAC28D72A5760AD0019ECD3 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				3CAC28C62A5757E10019ECD3 /* SmartCookieApp.swift */,
 				3CAC28C82A5757E10019ECD3 /* Mainview.swift */,
+				3CAC28D72A5760AD0019ECD3 /* SecondView.swift */,
 				3CAC28CA2A5757E10019ECD3 /* Assets.xcassets */,
 				3CAC28CC2A5757E10019ECD3 /* SmartCookie.entitlements */,
 				3CAC28CD2A5757E10019ECD3 /* Preview Content */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3CAC28D82A5760AD0019ECD3 /* SecondView.swift in Sources */,
 				3CAC28C92A5757E10019ECD3 /* Mainview.swift in Sources */,
 				3CAC28C72A5757E10019ECD3 /* SmartCookieApp.swift in Sources */,
 			);
