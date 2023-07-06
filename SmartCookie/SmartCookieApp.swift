@@ -11,7 +11,7 @@ import SwiftUI
 struct SmartCookieApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Mainview()
         }
     }
 }
